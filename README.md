@@ -14,3 +14,6 @@
 
 * [Video Classification](http://www.kaggle.com/c/cse512springhw3video)
 
+#### Recurrent Neural Network for human action recognition
+* [Action Classification](https://www.kaggle.com/c/cse512springhw5)
+
