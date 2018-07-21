@@ -14,6 +14,9 @@
 
 * [Video Classification](http://www.kaggle.com/c/cse512springhw3video)
 
+#### Generative Adverserial Networks
+* [Generating handwritten digits](http://yann.lecun.com/exdb/mnist/)
+
 #### Recurrent Neural Network for human action recognition
 * [Action Classification](https://www.kaggle.com/c/cse512springhw5)
 
